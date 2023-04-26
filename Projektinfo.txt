@@ -1,0 +1,13 @@
+SOLAR_SYSTEM_OBSERVER
+KÉSZÍTETTE: GARAI DOMONKOS
+FORRÁSOK: SOLAR SYSTEM SCOPE
+          WIKIPÉDIA
+          NASA WEB
+FÁJL: SCRATCH3
+FELTÖLTŐ: GITHUB
+
+HASZNÁLT PROGRAMOK: SCRATCH3
+                    MLBLOCK
+                    CHROME
+                    GITHUB DESKTOP
+                    WORD
